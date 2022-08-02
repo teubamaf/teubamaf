@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student in Master degree
+Student in Master degree currently working on Unity project
 
 
 ## 🌐 Socials:
